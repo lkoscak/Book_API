@@ -10,7 +10,6 @@ C:\Users\lkoscak\Desktop\book_api\book_api\bin\Debug\netcoreapp3.1\book_api.pdb
 C:\Users\lkoscak\Desktop\book_api\book_api\obj\Debug\netcoreapp3.1\book_api.csprojAssemblyReference.cache
 C:\Users\lkoscak\Desktop\book_api\book_api\obj\Debug\netcoreapp3.1\staticwebassets\book_api.StaticWebAssets.Manifest.cache
 C:\Users\lkoscak\Desktop\book_api\book_api\obj\Debug\netcoreapp3.1\staticwebassets\book_api.StaticWebAssets.xml
-C:\Users\lkoscak\Desktop\book_api\book_api\obj\Debug\netcoreapp3.1\book_api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\lkoscak\Desktop\book_api\book_api\obj\Debug\netcoreapp3.1\book_api.AssemblyInfoInputs.cache
 C:\Users\lkoscak\Desktop\book_api\book_api\obj\Debug\netcoreapp3.1\book_api.AssemblyInfo.cs
 C:\Users\lkoscak\Desktop\book_api\book_api\obj\Debug\netcoreapp3.1\book_api.RazorTargetAssemblyInfo.cache
